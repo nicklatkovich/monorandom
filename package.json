@@ -1,0 +1,16 @@
+{
+  "name": "monorandom",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "github:nicklatkovich/monorandom",
+  "author": "NickLatkovich",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
